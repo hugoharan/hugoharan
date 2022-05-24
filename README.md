@@ -10,7 +10,9 @@ I have a Bachelor's degree in Information Systems from Unimontes, during which I
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/hugoharan/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"  width="80" height="80" /></a>
+<a href="https://www.linkedin.com/in/hugoharan/" target="blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>
+          </a>
 </p>
 
 
