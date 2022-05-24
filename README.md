@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Marinho</h1>
-<h3 align="center">Fullstack Developer | PHP (Laravel | VueJs</h3>
+<h3 align="center">Fullstack Developer | PHP Laravel | VueJs</h3>
 
 I have a Bachelor's degree in Information Systems from Unimontes, during which I started my professional career in 2012, working for Infobits, Junior Company for the department. Since then, I've worked on range of different projects as a Fullstack developer, mainly with PHP (Laravel) and Javascript. In addition, I've worked with ASP, Java, Python and C#. I have knowledge in HTML, CSS, SASS, Javascript/Typescript, VueJS, PHP (Laravel) and SQL and NoSQL databases.
 
